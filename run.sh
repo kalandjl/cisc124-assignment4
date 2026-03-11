@@ -1,2 +1,2 @@
-javac Rectangle.java
-java Rectangle
+javac CreateRectangles.java
+java CreateRectangles
